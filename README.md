@@ -1,1 +1,1 @@
-# Spektralna-analiza-decimiranih-interpoliranih-upsample-i-downsample-signala
+# Spektralna analiza decimiranih, interpoliranih, upsample i downsample signala
